@@ -1,2 +1,2 @@
 # PintaOS
-My small operating system.
+My small operating system for learning. This is my experiments with OS development.
